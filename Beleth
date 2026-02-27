@@ -1,0 +1,20 @@
+Computer:      DELL Dell G15 5511
+CPU:           Intel Core i5-11400H (Tiger Lake-H, R0)
+               2700 MHz (27.00x100.0) @ 4089 MHz (41.00x99.8)
+Motherboard:   DELL 0K570X
+BIOS:          1.41.0, 11/25/2025
+Chipset:       Intel HM570 (Tiger Lake PCH-H)
+Memory:        16384 MBytes DDR4 SDRAM @ 1596 MHz, 22-22-22-52
+               - 8192 MB PC25600 DDR4 SDRAM - Micron 4ATF1G64HZ-3G2E2
+               - 8192 MB PC25600 DDR4 SDRAM - Micron 4ATF1G64HZ-3G2E2
+Graphics:      Intel Tiger Lake-H - GT1 Integrated Graphics [DELL]
+               Intel UHD Graphics, 8379794 KB SDRAM
+Graphics:      NVIDIA GeForce RTX 3050 Ti Laptop [DELL]
+               NVIDIA GeForce RTX 3050 Ti Laptop, 4096 MB GDDR6 SDRAM
+Drive:         KBG40ZNS512G NVMe KIOXIA 512GB, 500.1 GB, NVMe
+Sound:         Intel Tiger Lake PCH-H - cAVS (Audio, Voice, Speech) [B1]
+Sound:         NVIDIA GA107 - High Definition Audio Controller
+Network:       Intel Tiger Lake PCH-H - CNVi: Wi-Fi [B1]
+Network:       RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+OS:            Microsoft Windows 11 Home (x64) Build 26200.7840 (25H2)
+Computer Name: BELETH
