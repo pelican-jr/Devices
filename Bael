@@ -1,0 +1,19 @@
+Computer:      LENOVO Legion 5 Pro 16ACH6H
+CPU:           AMD Ryzen 7 5800H (Cezanne, CZN-A0)
+               3200 MHz (32.00x100.0) @ 4042 MHz (40.50x99.8)
+Motherboard:   LENOVO LNVNB161216
+BIOS:          GKCN65WW, 01/16/2024
+Chipset:       AMD Promontory/Bixby FCH
+Memory:        32768 MBytes DDR4 SDRAM @ 1597 MHz, 22-22-22-52
+               - 16384 MB PC25600 DDR4 SDRAM - G.Skill F4-3200C22-16GRS
+               - 16384 MB PC25600 DDR4 SDRAM - G.Skill F4-3200C22-16GRS
+Graphics:      NVIDIA GeForce RTX 3070 Laptop (GA104M) [Lenovo]
+               NVIDIA GeForce RTX 3070 Laptop, 8192 MB GDDR6 SDRAM
+Drive:         SKHynix_HFS512GDE9X084N, 500.1 GB, NVMe
+Drive:         addlink M.2 PCIE G3x4 NVMe, 500.1 GB, NVMe
+Sound:         NVIDIA GA104 - High Definition Audio Controller
+Sound:         AMD Zen - Audio Processor - HD Audio Controller
+Network:       RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+Network:       Intel Wi-Fi 6 AX200 160MHz
+OS:            Microsoft Windows 11 Home (x64) Build 26200.7840 (25H2)
+Computer Name: BAEL
