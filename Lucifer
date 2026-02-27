@@ -1,0 +1,25 @@
+Computer:      MSI MS-7D31
+CPU:           Intel Core i7-12700K (Alder Lake-S 841, C0)
+               3600 MHz (36.00x100.0) @ 4888 MHz (49.00x99.8)
+Motherboard:   MSI MPG Z690 EDGE WIFI DDR4 (MS-7D31)
+BIOS:          1.10, 12/13/2021
+Chipset:       Intel Z690 (Alder Lake-S PCH)
+Memory:        16384 MBytes DDR4 SDRAM @ 1330 MHz, 18-18-18-43
+               - 16384 MB PC28800 DDR4 SDRAM - Corsair CMW32GX4M2Z3600C18
+Graphics:      Intel UHD Graphics 770 (Alder Lake-S 881 GT1) - Integrated Graphics Controller [MSI]
+               Intel UHD Graphics 770, 8413116 KB SDRAM
+Graphics:      PNY GeForce RTX 5070 Triple Fan OC
+               NVIDIA GeForce RTX 5070, 12227 MB GDDR7 SDRAM
+Drive:         WDC WD20EURS-73TLHY0, 1953.5 GB, Serial ATA 3Gb/s @ 3Gb/s
+Drive:         WDC WD20EURS-73TLHY0, 1953.5 GB, Serial ATA 3Gb/s @ 3Gb/s
+Drive:         WDC WD20EADS-11R6B1, 1953.5 GB, Serial ATA 3Gb/s
+Drive:         WDC WD20PURX-64P6ZY0, 1953.5 GB, Serial ATA 6Gb/s @ 6Gb/s
+Drive:         SAMSUNG MZVL2512HCJQ-00BH1, 500.1 GB, NVMe
+Drive:         SAMSUNG MZVL4512HBLU-00BH1, 500.1 GB, NVMe
+Drive:         HL-DT-ST DVDRAM GH24NSC0, DVD+R DL
+Sound:         Intel Alder Lake-S PCH - cAVS (Audio, Voice, Speech)
+Sound:         NVIDIA GB205 - High Definition Audio Controller
+Network:       Intel Wi-Fi 6 AX201 160MHz
+Network:       Intel Ethernet Controller I225-V
+OS:            Microsoft Windows 11 Professional (x64) Build 26100.6584 (24H2)
+Computer Name: LUCIFER
